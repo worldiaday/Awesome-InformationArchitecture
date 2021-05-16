@@ -11,7 +11,7 @@ A curated, preferably annotated list of awesome resources about information arch
 # Contents
 
 - [Articles](#articles)
-- [Books](#books)
+- [Books](books.md)
 - [Talks/Presentations](#talkspresentations)
 - [Videos and Channels](#videos-and-channels)
 - [Podcasts](#podcasts)
@@ -23,23 +23,13 @@ A curated, preferably annotated list of awesome resources about information arch
 ## Articles
 [top](#awesome-information-architecture)
 
-## Books
-[top](#awesome-information-architecture)
-
-- Information Architecture: For the Web and Beyond 4th Edition by Louis Rosenfeld, Peter Morville, Jorge Arango
-- [The Elements of User Experience: User-Centered Design for the Web and Beyond by Jesse James Garrett](https://dl.acm.org/doi/10.5555/1965524)
-- Envisioning Information by Edward R. Tufte
-- Information Architecture: Blueprints for the Web 2nd Edition by Christina Wodtke, Austin Govella
-- Ambient Findability: What We Find Changes Who We Become 1st Edition by Peter Morville
-- Information Architecture for Designers: Structuring Websites for Business Success by Peter Van Dijck
-- [A Practical Guide to Information Architecture 2nd Edition by Donna Spencer](https://maadmob.com.au/speaking/books/practical-ia)
-
 ## Talks/Presentations
 [top](#awesome-information-architecture)
 
 ## Videos and Channels
 [top](#awesome-information-architecture)
 
+- 
 - [Italian IA Summit Vimeo](https://vimeo.com/italianiasummit)
 - [IAC Vimeo](https://vimeo.com/theiaconf)
 
@@ -51,9 +41,11 @@ A curated, preferably annotated list of awesome resources about information arch
 - [EuroIA Conference](https://euroia.eu/)
 - 
 
-## Podcasts
+## Podcast Episodes & Shows
 [top](#awesome-information-architecture)
 
+- ["How to Do Information Architecture", Talking Code Podcast](http://talkingcode.com/podcast/episode-18-abby-covert/)
+- [#169 Reintroduction to Information Architecture with Donna Spencer, UXPodcast, October 13, 2017](https://uxpodcast.com/169-information-architecture-donna-spencer/) 
 
 ## Journals, Publications, and Magazines
 [top](#awesome-information-architecture)
