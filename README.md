@@ -8,7 +8,7 @@ How to contribute
 
 - [Articles](#articles)
 - [Books](#books)
-- [Talks/Presentations](#talks-presentations)
+- [Talks/Presentations](#talkspresentations)
 - [Videos and Channels](#videos-and-channels)
 - [Podcasts](#podcasts)
 - [Journals, Publications, and Magazines](#journals-publications-and-magazines)
