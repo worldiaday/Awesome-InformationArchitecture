@@ -1,4 +1,5 @@
 # Awesome Information Architecture
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated, preferably annotated list of awesome resources about information architecture to learn about "What is Information ARchitecutre?" This list is for resources in English. Please create 
 
