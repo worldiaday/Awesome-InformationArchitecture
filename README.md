@@ -48,9 +48,13 @@ See [Books](books.md)
 - [EuroIA Conference](https://euroia.eu/)
 - 
 
-## Podcast Episodes & Shows
+## Podcasts
 [top](#awesome-information-architecture)
 
+- [The World of UX with Darren Hood](https://open.spotify.com/show/1mIMWf10xo2aOeO88lvOVD) - Hosted by Darren Hood. Available on Spotify
+- [The Informed Life](https://theinformed.life/) - Hosted by Jorge Arango. Available on Apple Podcasts, Spotify, Google Podcasts
+
+### Episodes
 - ["How to Do Information Architecture", Talking Code Podcast](http://talkingcode.com/podcast/episode-18-abby-covert/)
 - [#169 Reintroduction to Information Architecture with Donna Spencer, UXPodcast, October 13, 2017](https://uxpodcast.com/169-information-architecture-donna-spencer/) 
 
@@ -63,6 +67,7 @@ See [Books](books.md)
 ## Newsletters
 [top](#awesome-information-architecture)
 
+- [UX Uncensored](https://uxuncensored.medium.com/) by Darren Hood
 
 ## Tutorials/Workshops
 [top](#awesome-information-architecture)
