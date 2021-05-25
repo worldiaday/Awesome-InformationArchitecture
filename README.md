@@ -23,6 +23,9 @@ A curated, preferably annotated list of awesome resources about information arch
 ## Articles
 [top](#awesome-information-architecture)
 
+- Hood, Darren. “Darren Hood’s Information Architecture & Information Design Book Recommendation List.” Medium, February 16, 2021. https://uxuncensored.medium.com/darren-hoods-information-architecture-information-design-book-recommendation-list-8011a671c2be.
+
+
 ## Books
 See [Books](books.md)
 - [Information Architecture, 4th Edition](https://learning.oreilly.com/library/view/information-architecture-4th/9781491913529/), by Louis Rosenfeld, Peter Morville, Jorge Arango
