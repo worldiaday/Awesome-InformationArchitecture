@@ -23,6 +23,10 @@ A curated, preferably annotated list of awesome resources about information arch
 ## Articles
 [top](#awesome-information-architecture)
 
+## Books
+See [Books](books.md)
+- [Information Architecture, 4th Edition](https://learning.oreilly.com/library/view/information-architecture-4th/9781491913529/), by Louis Rosenfeld, Peter Morville, Jorge Arango
+
 ## Talks/Presentations
 [top](#awesome-information-architecture)
 
@@ -57,9 +61,13 @@ A curated, preferably annotated list of awesome resources about information arch
 [top](#awesome-information-architecture)
 
 
-## Tutorials
+## Tutorials/Workshops
 [top](#awesome-information-architecture)
+
+- Usaria, https://usaria.mx/, located in Columbia and Mexico
 
 ## MOOC
 [top](#awesome-information-architecture)
 
+- [Introduction to Information Architecture, Abby Covert, PluralSight](https://www.pluralsight.com/courses/information-architecture-introduction-2548) ($)
+- [Curso de Arquitectura de la Información con Usaria](https://platzi.com/cursos/arquitectura-informacion/), Platzi
