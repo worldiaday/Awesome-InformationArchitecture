@@ -53,6 +53,8 @@ See [Books](books.md)
 
 - [The World of UX with Darren Hood](https://open.spotify.com/show/1mIMWf10xo2aOeO88lvOVD) - Hosted by Darren Hood. Available on Spotify
 - [The Informed Life](https://theinformed.life/) - Hosted by Jorge Arango. Available on Apple Podcasts, Spotify, Google Podcasts
+- [The Iowa Idea](https://www.theiowaidea.com/) - Hosted by Matt Arnold. Available on common podcast platforms. 
+- [UX-radio](http://ux-radio.com/) - Hosted by Lara Fedoroff and Chris Chandler. 
 
 ### Episodes
 - ["How to Do Information Architecture", Talking Code Podcast](http://talkingcode.com/podcast/episode-18-abby-covert/)
