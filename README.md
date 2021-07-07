@@ -55,6 +55,7 @@ See [Books](books.md)
 - [The Informed Life](https://theinformed.life/) - Hosted by Jorge Arango. Available on Apple Podcasts, Spotify, Google Podcasts
 - [The Iowa Idea](https://www.theiowaidea.com/) - Hosted by Matt Arnold. Available on common podcast platforms. 
 - [UX-radio](http://ux-radio.com/) - Hosted by Lara Fedoroff and Chris Chandler. 
+- [What is Wrong with UX?](https://www.usersknow.com/podcast) - Hosted by Laura Klein and Kate Rutter.
 
 ### Episodes
 - ["How to Do Information Architecture", Talking Code Podcast](http://talkingcode.com/podcast/episode-18-abby-covert/)
