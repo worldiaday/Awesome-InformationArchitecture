@@ -51,6 +51,7 @@ See [Books](books.md)
 ## Podcasts
 [top](#awesome-information-architecture)
 
+- [Surfacing Podcst](https://www.surfacingpodcast.com/) - Hosted by Lisa Welchman and Andy Vitale on most podcast platforms
 - [The World of UX with Darren Hood](https://open.spotify.com/show/1mIMWf10xo2aOeO88lvOVD) - Hosted by Darren Hood. Available on Spotify
 - [The Informed Life](https://theinformed.life/) - Hosted by Jorge Arango. Available on Apple Podcasts, Spotify, Google Podcasts
 - [The Iowa Idea](https://www.theiowaidea.com/) - Hosted by Matt Arnold. Available on common podcast platforms. 
