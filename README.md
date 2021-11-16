@@ -1,11 +1,11 @@
 # Awesome Information Architecture
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated, preferably annotated list of awesome resources about information architecture to learn about "What is Information Architecture?" This list is for resources in English. 
+A curated, preferably annotated list of awesome resources about information architecture to learn about "What is Information Architecture?". 
 
 ### Contribute
 
-> Contributions welcome. Add links through pull requests or create an issue to start a discussion. Read the [contribution guidelines](contributing.md) first.
+> Contributions welcome. Add links through making a pull requests or adding an issue to start a discussion. Please refer to the [contribution guidelines](contributing.md) first.
 
 
 # Contents
@@ -46,7 +46,7 @@ See [Books](books.md)
 - [World IA Day](https://www.worldiaday.org/events)
 - [IAC: the information architecture conference](https://www.theiaconference.com/)
 - [EuroIA Conference](https://euroia.eu/)
-- 
+- Italian IA Summit
 
 ## Podcasts
 [top](#awesome-information-architecture)
