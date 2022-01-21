@@ -15,6 +15,7 @@ Contents
 - Information Architecture for Designers: Structuring Websites for Business Success by Peter Van Dijck
 - [A Practical Guide to Information Architecture 2nd Edition by Donna Spencer](https://maadmob.com.au/speaking/books/practical-ia)
 - [How to Make Sense of Any Mess by Abby Covert](http://www.howtomakesenseofanymess.com/)
+- Amy J. Ko (2022). Foundations of Information. https://faculty.washington.edu/ajko/books/foundations-of-information/, retrieved 1/21/2022.
 
 ## Spanish
 - [Cómo Darle Sentido a Cualquier Caos](https://abbycovert.com/darle-sentido/), by Abby Covert, translated by Bibiana Nunes
